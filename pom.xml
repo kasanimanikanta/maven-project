@@ -13,7 +13,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<mule.version>3.9.1</mule.version>
-		<activemq-client.version>5.15.11</activemq-client.version>
+		<activemq-client.version>5.15.16</activemq-client.version>
 		<activemq-broker.version>5.15.11</activemq-broker.version>
 		<activemq-kahadb-store.version>5.15.11</activemq-kahadb-store.version>
 		<mule.tools.version>1.2</mule.tools.version>
